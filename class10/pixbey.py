@@ -51,4 +51,3 @@ pprint.pprint(image)
 for main in image:
     main = image["largeImageURL"]
     print(main)
-
